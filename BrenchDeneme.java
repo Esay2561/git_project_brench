@@ -6,7 +6,10 @@ public class BrenchDeneme {
 		
 
     System.out.println("16:28 master brenchten ilk commit");
-		
+	System.out.println("18:36-feature brenchten ilk commit");
+	    
+    
+    
 	}
 
 }
